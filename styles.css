@@ -131,6 +131,7 @@ section h2 {
 
 .education h3 {
     margin-left: 10px;
+    font-weight: inherit;
 }
 
 .education span {
